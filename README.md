@@ -1,7 +1,7 @@
 my_malloc
 =========
 
-Recode of the malloc function from the libc
+Recoding of the malloc function from the libc
 
 Functionnality
 --------------
